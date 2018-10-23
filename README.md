@@ -18,7 +18,8 @@ GIFWALKTHROUGH:(
 
 Vulnerability type= Session Hijacking
 
-GIFWALKTHROUGH:(
+GIFWALKTHROUGH:(![session hijack](https://user-images.githubusercontent.com/17356647/47332199-3465b100-d644-11e8-9803-a07b1aee43bf.gif)
+
 
 Vulnerability type= SQL Injection
 
