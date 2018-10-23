@@ -15,6 +15,8 @@ GIFWALKTHROUGH:(![idor1](https://user-images.githubusercontent.com/17356647/4733
 Vulnerability type= CSRF
 
 GIFWALKTHROUGH:(
+![csrf](https://user-images.githubusercontent.com/17356647/47332229-47788100-d644-11e8-961f-453c0ee5dca3.gif)
+
 
 Vulnerability type= Session Hijacking
 
